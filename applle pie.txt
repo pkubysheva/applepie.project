@@ -2,4 +2,5 @@ sugar 0.5 kg
 milk 1.5 kg
 orange
  apple
+apples 5kg
 
